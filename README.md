@@ -1,8 +1,8 @@
-# Baki Khata (বাকি খাতা) 📒
+# Baki Khata (বাকি খাতা) 
 
 Baki Khata is a modern, offline-first Android application designed for small business owners and shopkeepers to easily manage their daily customer transactions, credits (baki), and debits. Built entirely with **Kotlin** and **Jetpack Compose**.
 
-## ✨ Features
+##  Features
 
 * **Dashboard & Analytics:** Get a quick overview of your total credits, debits, and balance.
 * **Customer Management:** Add and manage customer profiles easily.
@@ -14,7 +14,7 @@ Baki Khata is a modern, offline-first Android application designed for small bus
 * **Offline First:** All data is securely saved locally on your device using Room Database.
 * **Modern UI/UX:** A clean, responsive, and beautiful user interface with Dark/Light theme support.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Language:** [Kotlin](https://kotlinlang.org/)
 * **UI Toolkit:** [Jetpack Compose](https://developer.android.com/jetpack/compose)
@@ -25,11 +25,11 @@ Baki Khata is a modern, offline-first Android application designed for small bus
 * **PDF Generation:** Android PDFDocument API
 * **Printing:** EscPosFormatter for Bluetooth Thermal Printers
 
-## 📱 Screenshots
+##  Screenshots
 
 *(Screenshots coming soon... You can add screenshots of your app here)*
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 * [Android Studio](https://developer.android.com/studio) (Koala or newer recommended)
@@ -45,7 +45,7 @@ Baki Khata is a modern, offline-first Android application designed for small bus
 3. Let Gradle sync and download all dependencies.
 4. Run the app on an emulator or a physical Android device.
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions, issues, and feature requests are welcome! 
 Feel free to check [issues page](https://github.com/enamulzishan/Baki_Khata/issues).
